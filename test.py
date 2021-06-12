@@ -1,0 +1,2 @@
+print('mongmori gogo')
+
